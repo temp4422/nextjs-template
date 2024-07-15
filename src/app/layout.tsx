@@ -23,7 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
 
         <footer className="m-4 text-sm">
-          Made by <a href="https://github.com/webdev4422">webdev4422</a>
+          Made by <a href="https://github.com/temp4422">temp4422</a>
         </footer>
       </body>
     </html>
