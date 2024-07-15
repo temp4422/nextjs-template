@@ -23,7 +23,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </main>
 
         <footer className="m-4 text-sm">
-          Made by <a href="https://github.com/temp4422">temp4422</a>
+          Copyright © all rights reserved {new Date().getFullYear()}{' '}
+          <a className="text-gray-500 text-xs" href="https://github.com/temp4422">
+            temp4422
+          </a>
         </footer>
       </body>
     </html>
